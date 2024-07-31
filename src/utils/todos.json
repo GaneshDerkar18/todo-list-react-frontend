@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "Todo": "Buy groceries",
+      "Description": "Milk, Bread, Cheese, Eggs",
+      "lastUpdated": "2024-07-29T10:00:00Z",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "Todo": "Read a book",
+      "Description": "Finish reading 'The Great Gatsby'",
+      "lastUpdated": "2024-07-28T12:30:00Z",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "Todo": "Write blog post",
+      "Description": "Write about the benefits of React hooks",
+      "lastUpdated": "2024-07-29T15:00:00Z",
+      "completed": false
+    }
+  ]

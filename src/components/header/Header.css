@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 3vh; */
+    padding: 20px;
+    /* min-height: 5vh; */
+    /* background-color: rgb(51, 22, 83); */
+    background-color: rgb(107, 123, 177);
+    justify-content: center;
+    color: rgb(14, 9, 9);
+    align-items: center;
+    box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.3);
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    /* flex: 0.4; */
+    margin: 3vh;
+    padding: 10px 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    
+}
+
