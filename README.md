@@ -1,6 +1,6 @@
 ### Todo List Application
 
-# deployed link: https://18grd.github.io/todo-list-react-frontend/
+# deployed link: https://GaneshDerkar18.github.io/todo-list-react-frontend/
 
 
 ## Overview
@@ -83,7 +83,7 @@ Search parameters in URLs allow you to pass information that can be used to filt
 
 ### Clone the Repository:
 
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/GaneshDerkar18/todo-list-react-frontend.git
 
 # Navigate to the Project Directory:
 
